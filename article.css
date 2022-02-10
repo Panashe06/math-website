@@ -41,3 +41,10 @@ ol {
     text-indent: 40px;
     list-style: inden;
 }
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
